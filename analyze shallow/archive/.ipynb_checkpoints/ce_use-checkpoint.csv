@@ -1,0 +1,118 @@
+itemid,nitemid,level2,level1,unitname,mimic_label,category,outlier low,valid low,impute,valid high,outlier high
+769,1,Alanine aminotransferase,Alanine aminotransferase,,ALT,Enzymes,0,2,34,10000,11000
+220644,1,Alanine aminotransferase,Alanine aminotransferase,None,ALT,Labs,0,2,34,10000,11000
+772,2,Albumin,Albumin,,Albumin (>3.2),Chemistry,0,0.6,3.1,6,60
+1521,2,Albumin,Albumin,,Albumin,Chemistry,0,0.6,3.1,6,60
+227456,2,Albumin,Albumin,None,Albumin,Labs,0,0.6,3.1,6,60
+3727,2,Albumin,Albumin,,Albumin  (3.9-4.8),Chemistry,0,0.6,3.1,6,60
+773,3,Alkaline phosphate,Alkaline phosphate,,Alk. Phosphate,Enzymes,0,20,106,3625,4000
+225612,3,Alkaline phosphate,Alkaline phosphate,None,Alkaline Phosphate,Labs,0,20,106,3625,4000
+3728,3,Alkaline phosphate,Alkaline phosphate,,Alkaline Phosphatase,Chemistry,0,20,106,3625,4000
+770,4,Asparate aminotransferase,Asparate aminotransferase,,AST,Enzymes,0,6,40,20000,22000
+220587,4,Asparate aminotransferase,Asparate aminotransferase,None,AST,Labs,0,6,40,20000,22000
+227443,5,Bicarbonate,Bicarbonate (serum),None,HCO3 (serum),Labs,0,0,25,60,66
+1538,6,Bilirubin,Bilirubin (total),,Total Bili,Chemistry,0,0.1,0.9,60,66
+848,6,Bilirubin,Bilirubin (total),,Total Bili (0-1.5),Chemistry,0,0.1,0.9,60,66
+225690,6,Bilirubin,Bilirubin (total),None,Total Bilirubin,Labs,0,0.1,0.9,60,66
+781,7,Blood urea nitrogen,Blood urea nitrogen,,BUN (6-20),Chemistry,0,0,23,250,275
+1162,7,Blood urea nitrogen,Blood urea nitrogen,,BUN,,0,0,23,250,275
+225624,7,Blood urea nitrogen,Blood urea nitrogen,None,BUN,Labs,0,0,23,250,275
+3737,7,Blood urea nitrogen,Blood urea nitrogen,,BUN    (6-20),Chemistry,0,0,23,250,275
+786,8,Calcium,Calcium,,Calcium (8.4-10.2),Chemistry,,,,,
+1522,8,Calcium,Calcium,,Calcium,Chemistry,,,,,
+3746,8,Calcium,Calcium,,Calcium   (8.8-10.8),Chemistry,,,,,
+3348,9,Capillary refill rate,Capillary refill rate,,Capillary Refill,,0,0,0,1,1
+788,10,Chloride,Chloride,,Chloride (100-112),Chemistry,0,50,104,175,200
+1523,10,Chloride,Chloride,,Chloride,Chemistry,0,50,104,175,200
+3747,10,Chloride,Chloride,,Chloride  (100-112),Chemistry,0,50,104,175,200
+4193,10,Chloride,Chloride,,ABG Chloride,ABG's,0,50,104,175,200
+789,11,Cholesterol,Cholesterol,,Cholesterol (<200),Chemistry,0,32,160,600,660
+1524,11,Cholesterol,Cholesterol,,Cholesterol,Chemistry,0,32,160,600,660
+220603,11,Cholesterol,Cholesterol,None,Cholesterol,Labs,0,32,160,600,660
+3748,11,Cholesterol,Cholesterol,,Cholesterol (0-199),Chemistry,0,32,160,600,660
+791,13,Creatinine,Creatinine,,Creatinine (0-1.3),Chemistry,0,0.1,1,60,66
+1525,13,Creatinine,Creatinine,,Creatinine,Chemistry,0,0.1,1,60,66
+220615,13,Creatinine,Creatinine,None,Creatinine,Labs,0,0.1,1,60,66
+3750,13,Creatinine,Creatinine,,Creatinine   (0-0.7),Chemistry,0,0.1,1,60,66
+8368,14,Diastolic blood pressure,Diastolic blood pressure (arterial),,Arterial BP [Diastolic],,0,0,59,375,375
+220051,14,Diastolic blood pressure,Diastolic blood pressure (arterial),mmHg,Arterial Blood Pressure diastolic,Routine Vital Signs,0,0,59,375,375
+225310,14,Diastolic blood pressure,Diastolic blood pressure (arterial),mmHg,ART BP Diastolic,Routine Vital Signs,0,0,59,375,375
+8555,14,Diastolic blood pressure,Diastolic blood pressure (arterial),,Arterial BP #2 [Diastolic],,0,0,59,375,375
+184,15,Glascow coma scale eye opening,Glascow coma scale eye opening,,Eye Opening,,1,1,4,4,4
+220739,15,Glascow coma scale eye opening,Glascow coma scale eye opening,,GCS - Eye Opening,Neurological,1,1,4,4,4
+454,16,Glascow coma scale motor response,Glascow coma scale motor response,,Motor Response,,1,1,6,6,6
+223901,16,Glascow coma scale motor response,Glascow coma scale motor response,,GCS - Motor Response,Neurological,1,1,6,6,6
+723,17,Glascow coma scale verbal response,Glascow coma scale verbal response,,Verbal Response,,1,1,4,5,5
+223900,17,Glascow coma scale verbal response,Glascow coma scale verbal response,,GCS - Verbal Response,Neurological,1,1,4,5,5
+807,18,Glucose,Glucose,,Fingerstick Glucose,Chemistry,0,33,128,2000,2200
+811,18,Glucose,Glucose,,Glucose (70-105),Chemistry,0,33,128,2000,2200
+1529,18,Glucose,Glucose,,Glucose,Chemistry,0,33,128,2000,2200
+226707,20,Height,Height,Inch,Height,General,0,0,170,240,275
+1394,20,Height,Height (in),,Height Inches,,0,0,170,240,275
+813,21,Hematocrit,Hematocrit,,Hematocrit,Hematology,0,0,30.2,75,100
+3761,21,Hematocrit,Hematocrit,,Hematocrit (35-51),ABG'S,0,0,30.2,75,100
+220545,21,Hematocrit,Hematocrit (serum),None,Hematocrit (serum),Labs,0,0,30.2,75,100
+814,22,Hemoglobin,Hemoglobin,,Hemoglobin,Hematology,0,0,10.2,25,30
+220228,22,Hemoglobin,Hemoglobin,g/dl,Hemoglobin,Labs,0,0,10.2,25,30
+818,23,Lactic acid,Lactic acid,,Lactic Acid(0.5-2.0),Chemistry,,,,,
+225668,23,Lactic acid,Lactic acid,None,Lactic Acid,Labs,,,,,
+1531,23,Lactic acid,Lactic acid,,Lactic Acid,Chemistry,,,,,
+821,24,Magnesium,Magnesium,,Magnesium (1.6-2.6),Chemistry,0,0,2,20,22
+1532,24,Magnesium,Magnesium,,Magnesium,Chemistry,0,0,2,20,22
+220635,24,Magnesium,Magnesium,None,Magnesium,Labs,0,0,2,20,22
+52,25,Mean blood pressure,Mean blood pressure (arterial),,Arterial BP Mean,,0,14,77,330,375
+220052,25,Mean blood pressure,Mean blood pressure (arterial),mmHg,Arterial Blood Pressure mean,Routine Vital Signs,0,14,77,330,375
+225312,25,Mean blood pressure,Mean blood pressure (arterial),mmHg,ART BP mean,Routine Vital Signs,0,14,77,330,375
+224,25,Mean blood pressure,Mean blood pressure (arterial),,IABP Mean,,0,14,77,330,375
+6702,25,Mean blood pressure,Mean blood pressure (arterial),,Arterial BP Mean #2,,0,14,77,330,375
+224322,25,Mean blood pressure,Mean blood pressure (arterial),mmHg,IABP Mean,IABP,0,14,77,330,375
+834,26,Oxygen saturation,Oxygen saturation,,SaO2,ABG's,0,0,98,100,150
+8498,26,Oxygen saturation,Oxygen saturation,,O2 sat [Post],,0,0,98,100,150
+825,27,Partial thromboplastin time,Partial thromboplastin time,,PTT(22-35),Coags,0,18.8,34.4,150,150
+1533,27,Partial thromboplastin time,Partial thromboplastin time,,PTT,Coags,0,18.8,34.4,150,150
+227466,27,Partial thromboplastin time,Partial thromboplastin time,None,PTT,Labs,0,18.8,34.4,150,150
+780,28,pH,pH (arterial),,Arterial pH,ABG,6.3,6.3,7.4,8.4,10
+1126,28,pH,pH (arterial),,Art.pH,ABG,6.3,6.3,7.4,8.4,10
+223830,28,pH,pH (arterial),None,PH (Arterial),Labs,6.3,6.3,7.4,8.4,10
+4753,28,pH,pH (arterial),,pH (Art),ABG,6.3,6.3,7.4,8.4,10
+828,29,Platelets,Platelets,,Platelets,Hematology,0,0,208,2000,2200
+227457,29,Platelets,Platelets,None,Platelet Count,Labs,0,0,208,2000,2200
+3789,29,Platelets,Platelets,,Platelet  (150-440),Heme/Coag,0,0,208,2000,2200
+505,30,Positive end-expiratory pressure,Positive end-expiratory pressure,,PEEP,,0,0,6,25,30
+829,31,Potassium,Potassium,,Potassium (3.5-5.3),Chemistry,0,0,4.1,12,15
+1535,31,Potassium,Potassium,,Potassium,Chemistry,0,0,4.1,12,15
+3792,31,Potassium,Potassium,,Potassium  (3.5-5.3),Chemistry,0,0,4.1,12,15
+815,32,Prothrombin time,Prothrombin time,,INR (2-4 ref. range),Coags,0,9.9,14.5,97.1,150
+824,32,Prothrombin time,Prothrombin time,,PT(11-13.5),Coags,0,9.9,14.5,97.1,150
+1530,32,Prothrombin time,Prothrombin time,,INR,Coags,0,9.9,14.5,97.1,150
+1286,32,Prothrombin time,Prothrombin time,,PT,,0,9.9,14.5,97.1,150
+227467,32,Prothrombin time,Prothrombin time,None,INR,Labs,0,9.9,14.5,97.1,150
+833,33,Red blood cell count,Red blood cell count,,RBC,Hematology,,,,,
+3799,33,Red blood cell count,Red blood cell count,,Red Blood C(3.6-6.2),Heme/Coag,,,,,
+4197,33,Red blood cell count,Red blood cell count,,RBC(3.6-6.2),Heme/Coag,,,,,
+618,34,Respiratory rate,Respiratory rate,,Respiratory Rate,,0,0,19,300,330
+220210,34,Respiratory rate,Respiratory rate,insp/min,Respiratory Rate,Respiratory,0,0,19,300,330
+3603,34,Respiratory rate,Respiratory rate,,Resp Rate,,0,0,19,300,330
+224689,34,Respiratory rate,Respiratory rate (spontaneous),insp/min,Respiratory Rate (spontaneous),Respiratory,0,0,19,300,330
+651,34,Respiratory rate,Respiratory rate (spontaneous),,Spon RR (Mech.),,0,0,19,300,330
+224422,34,Respiratory rate,Respiratory rate (spontaneous),bpm,Spont RR,Respiratory,0,0,19,300,330
+615,34,Respiratory rate,Respiratory rate (total),,Resp Rate (Total),,0,0,19,300,330
+224690,34,Respiratory rate,Respiratory rate (total),insp/min,Respiratory Rate (Total),Respiratory,0,0,19,300,330
+837,35,Sodium,Sodium,,Sodium (135-148),Chemistry,0,50,142,225,250
+1536,35,Sodium,Sodium,,Sodium,Chemistry,0,50,142,225,250
+3803,35,Sodium,Sodium,,Sodium  (135-148),Chemistry,0,50,142,225,250
+220645,35,Sodium,Sodium (serum),None,Sodium (serum),Labs,0,50,142,225,250
+226534,35,Sodium,Sodium (whole blood),None,Sodium (whole blood),Labs,0,50,142,225,250
+51,36,Systolic blood pressure,Systolic blood pressure (arterial),,Arterial BP [Systolic],,0,0,118,375,375
+220050,36,Systolic blood pressure,Systolic blood pressure (arterial),mmHg,Arterial Blood Pressure systolic,Routine Vital Signs,0,0,118,375,375
+225309,36,Systolic blood pressure,Systolic blood pressure (arterial),mmHg,ART BP Systolic,Routine Vital Signs,0,0,118,375,375
+6701,36,Systolic blood pressure,Systolic blood pressure (arterial),,Arterial BP #2 [Systolic],,0,0,118,375,375
+227429,39,Troponin-T,Troponin-T,None,Troponin-T,Labs,0,0.01,0.1,20.85,24
+763,40,Weight,Weight (daily),,Daily Weight,,0,0,81.8,250,250
+224639,40,Weight,Weight (daily),kg,Daily Weight,General,0,0,81.8,250,250
+226512,40,Weight,"Weight (kg, admission)",kg,Admission Weight (Kg),General,0,0,81.8,250,250
+861,41,White blood cell count,White blood cell count,,"WBC (4-11,000)",Hematology,0,0,9.9,1000,1100
+1127,41,White blood cell count,White blood cell count,,"WBC   (4-11,000)",Hematology,0,0,9.9,1000,1100
+1542,41,White blood cell count,White blood cell count,,WBC,Hematology,0,0,9.9,1000,1100
+220546,41,White blood cell count,White blood cell count,None,WBC,Labs,0,0,9.9,1000,1100
+4200,41,White blood cell count,White blood cell count,,WBC 4.0-11.0,Heme/Coag,0,0,9.9,1000,1100

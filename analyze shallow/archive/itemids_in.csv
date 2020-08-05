@@ -1,0 +1,279 @@
+row_id,itemid,label,abbreviation,dbsource,linksto,category,unitname,param_type,conceptid,count
+13765,225166,Potassium Chloride,Potassium Chloride - KCL,metavision,inputevents_mv,Medications,mEq,Solution,,80724
+13766,225167,Hydrochloric Acid - HCL,Hydrochloric Acid - HCL,metavision,inputevents_mv,Medications,mEq,Solution,,37
+13767,225168,Packed Red Blood Cells,PRBC's,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,24836
+13768,225170,Platelets,Platelets,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,4160
+13769,225171,Cryoprecipitate,Cryoprecipitate,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,1073
+13770,225173,Cell Saver,Cell Saver,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,19
+13771,225174,Hetastarch (Hespan) 6%,Hetastarch (Hespan) 6%,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,82
+14575,227070,PACU Packed RBC Intake,PACU Packed RBC Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,75
+14576,227071,PACU Platelet Intake,PACU Platelet Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,8
+14577,227072,PACU FFP Intake,PACU FFP Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,14
+14582,227091,Ensure (1/4),Ensure (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,10
+12929,221036,Nutren Renal (Full),Nutren Renal (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,3291
+12945,221207,Impact (Full),Impact (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,354
+12958,221261,Abciximab (Reopro),Abciximab (Reopro),metavision,inputevents_mv,Medications,mg,Solution,,7
+12959,221282,Adenosine,Adenosine,metavision,inputevents_mv,Medications,mg,Solution,,179
+12960,221289,Epinephrine,Epinephrine,metavision,inputevents_mv,Medications,mg,Solution,,6413
+12961,221319,Alteplase (TPA),Alteplase (TPA),metavision,inputevents_mv,Medications,mg,Solution,,80
+12962,221342,Aminophylline,Aminophylline,metavision,inputevents_mv,Medications,mg,Solution,,15
+12963,221347,Amiodarone,Amiodarone,metavision,inputevents_mv,Medications,mg,Solution,,8367
+12964,221385,Lorazepam (Ativan),Lorazepam (Ativan),metavision,inputevents_mv,Medications,mg,Solution,,18731
+12965,221393,Atropine,Atropine,metavision,inputevents_mv,Medications,mg,Solution,,238
+12966,221429,Esmolol,Esmolol,metavision,inputevents_mv,Medications,mg,Solution,,4888
+12967,221456,Calcium Gluconate,Calcium Gluconate,metavision,inputevents_mv,Medications,grams,Solution,,23922
+12968,221468,Diltiazem,Diltiazem,metavision,inputevents_mv,Medications,mg,Solution,,8765
+12969,221555,Cisatracurium,Cisatracurium,metavision,inputevents_mv,Medications,mg,Solution,,9334
+12970,221623,Diazepam (Valium),Diazepam (Valium),metavision,inputevents_mv,Medications,mg,Solution,,3780
+12971,221653,Dobutamine,Dobutamine,metavision,inputevents_mv,Medications,mg,Solution,,2233
+12972,221662,Dopamine,Dopamine,metavision,inputevents_mv,Medications,mg,Solution,,11389
+12973,221668,Midazolam (Versed),Midazolam (Versed),metavision,inputevents_mv,Medications,mg,Solution,,71674
+12974,221689,Drotrecogin (Xigris),Drotrecogin (Xigris),metavision,inputevents_mv,Medications,mg,Solution,,197
+12975,221712,Ketamine,Ketamine,metavision,inputevents_mv,Medications,mg,Solution,,1079
+12976,221733,Factor VIII,Factor VIII,metavision,inputevents_mv,Blood Products/Colloids,International Units,Solution,,14
+12977,221744,Fentanyl,Fentanyl,metavision,inputevents_mv,Medications,mg,Solution,,86340
+12868,220952,Dextrose 50%,Dextrose 50%,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,3832
+12885,220970,Fresh Frozen Plasma,FFP,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,8428
+12901,220995,Sodium Bicarbonate 8.4%,Sodium Bicarbonate 8.4%,metavision,inputevents_mv,Medications,mEq,Solution,,6670
+14741,227370,Peptamen VHP (Full),Peptamen VHP (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1
+14645,226875,Ensure (3/4),Ensure (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1
+14647,226877,Ensure Plus (Full),Ensure Plus (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,80
+14650,226880,Nutren Pulmonary (Full),Nutren Pulmonary (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,10628
+14651,226881,Nutren Pulmonary (3/4),Nutren Pulmonary (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,26
+14652,226882,Nutren Pulmonary (1/2),Nutren Pulmonary (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,82
+15446,228315,Acetaminophen-IV,Acetaminophen-IV,metavision,inputevents_mv,Medications,mg,Solution,,4523
+15447,228316,Keppra,Keppra,metavision,inputevents_mv,Medications,mg,Solution,,867
+15470,228339,Amiodarone 600/500,Amiodarone 600/500,metavision,inputevents_mv,Medications,mg,Solution,,1751
+15471,228340,Furosemide (Lasix) 500/100,Furosemide (Lasix) 500/100,metavision,inputevents_mv,Medications,mg,Solution,,2392
+15472,228341,NaCl 23.4%,NaCl 23.4%,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,14
+15477,228348,Nepro (1/2),Nepro (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,3
+15480,228351,Nepro (Full),Nepro (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1271
+15485,228356,Glucerna (1/2),Glucerna (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1
+15488,228359,Glucerna (Full),Glucerna (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1387
+15490,228361,Pulmocare (1/4),Pulmocare (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1
+15492,228363,Pulmocare (Full),Pulmocare (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1568
+15493,228364,Two Cal HN (1/2),Two Cal HN (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,14
+15496,228367,Two Cal HN (Full),Two Cal HN (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1991
+12978,221749,Phenylephrine,Phenylephrine,metavision,inputevents_mv,Medications,mg,Solution,,93571
+12979,221794,Furosemide (Lasix),Furosemide (Lasix),metavision,inputevents_mv,Medications,mg,Solution,,47444
+12980,221824,Haloperidol (Haldol),Haloperidol (Haldol),metavision,inputevents_mv,Medications,mg,Solution,,5389
+12981,221828,Hydralazine,Hydralazine,metavision,inputevents_mv,Medications,mg,Solution,,12459
+12982,221833,Hydromorphone (Dilaudid),Hydromorphone (Dilaudid),metavision,inputevents_mv,Medications,mg,Solution,,32461
+12983,221892,Lepirudin,Lepirudin,metavision,inputevents_mv,Medications,mg,Solution,,19
+12984,221906,Norepinephrine,Norepinephrine,metavision,inputevents_mv,Medications,mg,Solution,,89697
+12985,221986,Milrinone,Milrinone,metavision,inputevents_mv,Medications,mg,Solution,,6249
+12986,222011,Magnesium Sulfate,Magnesium Sulfate,metavision,inputevents_mv,Medications,grams,Solution,,25897
+12987,222021,Naloxone (Narcan),Naloxone (Narcan),metavision,inputevents_mv,Medications,mg,Solution,,306
+12988,222037,Nesiritide,Nesiritide,metavision,inputevents_mv,Medications,mg,Solution,,35
+12989,222042,Nicardipine,Nicardipine,metavision,inputevents_mv,Medications,mg,Solution,,13611
+12990,222051,Nitroprusside,Nitroprusside,metavision,inputevents_mv,Medications,mg,Solution,,4462
+12991,222056,Nitroglycerin,Nitroglycerin,metavision,inputevents_mv,Medications,mg,Solution,,31528
+12992,222062,Vecuronium,Vecuronium,metavision,inputevents_mv,Medications,mg,Solution,,664
+12994,222151,Procainamide,Procainamide,metavision,inputevents_mv,Medications,mg,Solution,,51
+12995,222168,Propofol,Propofol,metavision,inputevents_mv,Medications,mg,Solution,,178819
+12996,222190,Ranitidine,Ranitidine,metavision,inputevents_mv,Nutrition - Parenteral,mg,Solution,,92
+12997,222315,Vasopressin,Vasopressin,metavision,inputevents_mv,Medications,units,Solution,,5648
+12998,222318,Verapamil,Verapamil,metavision,inputevents_mv,Medications,mg,Solution,,56
+13002,223257,Insulin - 70/30,Insulin - 70/30,metavision,inputevents_mv,Medications,units,Solution,,452
+13003,223258,Insulin - Regular,Insulin - Regular,metavision,inputevents_mv,Medications,units,Solution,,119668
+13004,223259,Insulin - NPH,Insulin - NPH,metavision,inputevents_mv,Medications,units,Solution,,3504
+13005,223260,Insulin - Glargine,Insulin - Glargine,metavision,inputevents_mv,Medications,units,Solution,,8906
+13006,223261,Insulin - Humalog 75/25,Insulin - Humalog 75/25,metavision,inputevents_mv,Medications,units,Solution,,167
+13007,223262,Insulin - Humalog,Insulin - Humalog,metavision,inputevents_mv,Medications,units,Solution,,31680
+15512,228383,Peptamen Bariatric (Full),Peptamen Bariatric (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1013
+14019,225848,Caspofungin,Caspofungin,metavision,inputevents_mv,Antibiotics,dose,Solution,,359
+14020,225850,Cefazolin,Cefazolin,metavision,inputevents_mv,Antibiotics,dose,Solution,,12751
+14021,225851,Cefepime,Cefepime,metavision,inputevents_mv,Antibiotics,dose,Solution,,14856
+14022,225853,Ceftazidime,Ceftazidime,metavision,inputevents_mv,Antibiotics,dose,Solution,,1872
+14023,225855,Ceftriaxone,Ceftriaxone,metavision,inputevents_mv,Antibiotics,dose,Solution,,4749
+14025,225859,Ciprofloxacin,Ciprofloxacin,metavision,inputevents_mv,Antibiotics,dose,Solution,,11261
+14026,225860,Clindamycin,Clindamycin,metavision,inputevents_mv,Antibiotics,dose,Solution,,2376
+14027,225862,Colistin,Colistin,metavision,inputevents_mv,Antibiotics,dose,Solution,,268
+14028,225863,Daptomycin,Daptomycin,metavision,inputevents_mv,Antibiotics,dose,Solution,,930
+14029,225865,Doxycycline,Doxycycline,metavision,inputevents_mv,Antibiotics,dose,Solution,,434
+14030,225866,Erythromycin,Erythromycin,metavision,inputevents_mv,Antibiotics,dose,Solution,,556
+14031,225868,Ethambutol,Ethambutol,metavision,inputevents_mv,Antibiotics,dose,Solution,,7
+14032,225869,Fluconazole,Fluconazole,metavision,inputevents_mv,Antibiotics,dose,Solution,,2079
+14033,225871,Foscarnet,Foscarnet,metavision,inputevents_mv,Antibiotics,dose,Solution,,54
+14034,225873,Gancyclovir,Gancyclovir,metavision,inputevents_mv,Antibiotics,dose,Solution,,241
+14035,225875,Gentamicin,Gentamicin,metavision,inputevents_mv,Antibiotics,dose,Solution,,1642
+14036,225876,Imipenem/Cilastatin,Imipenem/Cilastatin,metavision,inputevents_mv,Antibiotics,dose,Solution,,133
+14037,225877,Isoniazid,Isoniazid,metavision,inputevents_mv,Antibiotics,dose,Solution,,6
+14038,225879,Levofloxacin,Levofloxacin,metavision,inputevents_mv,Antibiotics,dose,Solution,,3279
+14039,225881,Linezolid,Linezolid,metavision,inputevents_mv,Antibiotics,dose,Solution,,2998
+14041,225883,Meropenem,Meropenem,metavision,inputevents_mv,Antibiotics,dose,Solution,,16892
+14042,225884,Metronidazole,Metronidazole,metavision,inputevents_mv,Antibiotics,dose,Solution,,22222
+14043,225885,Micafungin,Micafungin,metavision,inputevents_mv,Antibiotics,dose,Solution,,1625
+14044,225886,Moxifloxacin,Moxifloxacin,metavision,inputevents_mv,Antibiotics,dose,Solution,,9
+14045,225888,Nafcillin,Nafcillin,metavision,inputevents_mv,Antibiotics,dose,Solution,,5048
+14046,225889,Oxacillin,Oxacillin,metavision,inputevents_mv,Antibiotics,dose,Solution,,2
+14047,225890,Penicillin G potassium,Penicillin G potassium,metavision,inputevents_mv,Antibiotics,dose,Solution,,1002
+14048,225892,Piperacillin,Piperacillin,metavision,inputevents_mv,Antibiotics,dose,Solution,,5520
+14049,225893,Piperacillin/Tazobactam (Zosyn),Piperacillin/Tazobactam (Zosyn),metavision,inputevents_mv,Antibiotics,dose,Solution,,27069
+14050,225895,Pyrazinamide,Pyrazinamide,metavision,inputevents_mv,Antibiotics,dose,Solution,,8
+14051,225896,Quinine,Quinine,metavision,inputevents_mv,Antibiotics,dose,Solution,,1
+14053,225898,Rifampin,Rifampin,metavision,inputevents_mv,Antibiotics,dose,Solution,,259
+14054,225899,Bactrim (SMX/TMP),Bactrim (SMX/TMP),metavision,inputevents_mv,Antibiotics,dose,Solution,,1873
+14056,225902,Tobramycin,Tobramycin,metavision,inputevents_mv,Antibiotics,dose,Solution,,816
+14057,225903,Valgancyclovir,Valgancyclovir,metavision,inputevents_mv,Antibiotics,dose,Solution,,39
+14058,225905,Voriconazole,Voriconazole,metavision,inputevents_mv,Antibiotics,dose,Solution,,873
+14059,225906,Enoxaparin (Lovenox),Enoxaparin (Lovenox),metavision,inputevents_mv,Medications,dose,Solution,,1720
+14060,225907,Famotidine (Pepcid),Famotidine (Pepcid),metavision,inputevents_mv,Medications,dose,Solution,,22316
+14061,225908,Fondaparinux,Fondaparinux,metavision,inputevents_mv,Medications,dose,Solution,,154
+14062,225909,Lansoprazole (Prevacid),Lansoprazole (Prevacid),metavision,inputevents_mv,Medications,dose,Solution,,1975
+14063,225910,Pantoprazole (Protonix),Pantoprazole (Protonix),metavision,inputevents_mv,Medications,dose,Solution,,27516
+14064,225911,Ranitidine (Prophylaxis),Ranitidine (Prophylaxis),metavision,inputevents_mv,Medications,dose,Solution,,3134
+14065,225912,Carafate (Sucralfate),Carafate (Sucralfate),metavision,inputevents_mv,Medications,dose,Solution,,692
+14066,225913,Coumadin (Warfarin),Coumadin (Warfarin),metavision,inputevents_mv,Medications,dose,Solution,,997
+14067,225914,Factor VIIa,Factor VIIa,metavision,inputevents_mv,Blood Products/Colloids,mcg,Solution,,109
+14068,225915,Profilnine,Profilnine,metavision,inputevents_mv,Blood Products/Colloids,units,Solution,,5
+14069,225916,TPN w/ Lipids,TPN w/ Lipids,metavision,inputevents_mv,Nutrition - Parenteral,mL,Solution,,6009
+14848,227518,Nutren 2.0 (3/4),Nutren 2.0 (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,151
+14850,227520,Methadone Hydrochloride,Methadone Hydrochloride,metavision,inputevents_mv,Medications,mg,Solution,,1482
+14852,227522,KCL (Bolus),KCL (Bolus),metavision,inputevents_mv,Medications,mL,Solution,,37967
+14853,227523,Magnesium Sulfate (Bolus),Magnesium Sulfate (Bolus),metavision,inputevents_mv,Medications,mL,Solution,,17883
+14854,227524,Magnesium Sulfate (OB-GYN),Magnesium Sulfate (OB-GYN),metavision,inputevents_mv,Medications,grams,Solution,,26
+14855,227525,Calcium Gluconate (CRRT),Calcium Gluconate (CRRT),metavision,inputevents_mv,Medications,grams,Solution,,15636
+14772,227526,Citrate,Citrate,metavision,inputevents_mv,Medications,mmol,Solution,,17650
+14774,227528,ACD-A Citrate (500ml),ACD-A Citrate (500ml),metavision,inputevents_mv,Medications,mL,Solution,,316
+14775,227529,ACD-A Citrate (1000ml),ACD-A Citrate (1000ml),metavision,inputevents_mv,Medications,mL,Solution,,17205
+14776,227530,IV Immune Globulin (IVIG),IVIG,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,532
+13979,225795,Dextran 40,Dextran 40,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,38
+13981,225797,Free Water,Free Water,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,16735
+13982,225798,Vancomycin,Vancomycin,metavision,inputevents_mv,Antibiotics,dose,Solution,,46352
+13983,225799,Gastric Meds,Gastric Meds,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,97629
+13984,225801,Lipids 20%,Lipids 20%,metavision,inputevents_mv,Nutrition - Parenteral,mL,Solution,,135
+14002,225823,D5 1/2NS,D5 1/2NS,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,17661
+14003,225825,D5NS,D5NS,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,3844
+14004,225827,D5LR,D5LR,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,954
+14005,225828,LR,LR,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,50013
+14006,225830,Multivitamins,Multivitamins,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,1393
+14007,225832,Folic Acid,Folic Acid,metavision,inputevents_mv,Medications,mg,Solution,,1686
+14008,225833,Thiamine,Thiamine,metavision,inputevents_mv,Medications,mg,Solution,,2602
+14009,225834,K Phos,K Phos,metavision,inputevents_mv,Medications,mmol,Solution,,5618
+14010,225835,Na Phos,Na Phos,metavision,inputevents_mv,Medications,mmol,Solution,,1594
+14011,225837,Acyclovir,Acyclovir,metavision,inputevents_mv,Antibiotics,dose,Solution,,4258
+14012,225838,Ambisome,Ambisome,metavision,inputevents_mv,Antibiotics,dose,Solution,,357
+14013,225840,Amikacin,Amikacin,metavision,inputevents_mv,Antibiotics,dose,Solution,,209
+14014,225842,Ampicillin,Ampicillin,metavision,inputevents_mv,Antibiotics,dose,Solution,,3791
+14015,225843,Ampicillin/Sulbactam (Unasyn),Ampicillin/Sulbactam (Unasyn),metavision,inputevents_mv,Antibiotics,dose,Solution,,3572
+14016,225844,Atovaquone,Atovaquone,metavision,inputevents_mv,Antibiotics,dose,Solution,,48
+14017,225845,Azithromycin,Azithromycin,metavision,inputevents_mv,Antibiotics,dose,Solution,,1475
+14018,225847,Aztreonam,Aztreonam,metavision,inputevents_mv,Antibiotics,dose,Solution,,1733
+14777,227531,Mannitol,Mannitol,metavision,inputevents_mv,Medications,grams,Solution,,1138
+14778,227532,Plasma Pheresis,Plasma Pheresis,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,87
+14779,227533,Sodium Bicarbonate 8.4% (Amp),Sodium Bicarbonate 8.4% (Amp),metavision,inputevents_mv,Fluids/Intake,mL,Solution,,2037
+14780,227534,Cyclosporine,Cyclosporine,metavision,inputevents_mv,Medications,mg,Solution,,47
+14781,227535,Vitamin K (Phytonadione),Vitamin K (Phytonadione),metavision,inputevents_mv,Medications,mg,Solution,,325
+14782,227536,KCl (CRRT),KCl (CRRT),metavision,inputevents_mv,Medications,mEq.,Solution,,26606
+14219,225969,Lipids (additive),Lipids (additive),metavision,inputevents_mv,Nutrition - Parenteral,grams,Solution,,1412
+14220,225970,Beneprotein,Beneprotein,metavision,inputevents_mv,Nutrition - Enteral,grams,Solution,,11740
+15087,228003,Tamiflu,Tamiflu,metavision,inputevents_mv,Antibiotics,dose,Solution,,73
+14296,225996,Mighty Shake (no sugar added),Mighty Shake (no sugar added),metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,3
+14308,226016,Nutren 2.0 (1/4),Nutren 2.0 (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,57
+14309,226017,Nutren 2.0 (2/3),Nutren 2.0 (2/3),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,38
+14311,226019,Nutren 2.0 (1/2),Nutren 2.0 (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,74
+14312,226020,Impact (1/4),Impact (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,15
+14313,226021,Impact (2/3),Impact (2/3),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1
+14314,226022,Impact (3/4),Impact (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,78
+14315,226023,Impact (1/2),Impact (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,58
+14316,226024,Impact with Fiber (1/4),Impact with Fiber (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,2
+14318,226026,Impact with Fiber (3/4),Impact with Fiber (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,59
+14319,226027,Impact with Fiber (1/2),Impact with Fiber (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,9
+14320,226028,Nutren Renal (1/4),Nutren Renal (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,15
+14322,226030,Nutren Renal (3/4),Nutren Renal (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,135
+14323,226031,Nutren Renal (1/2),Nutren Renal (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,200
+14324,226036,Peptamen 1.5 (1/4),Peptamen 1.5 (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,34
+14326,226038,Peptamen 1.5 (3/4),Peptamen 1.5 (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,118
+14327,226039,Peptamen 1.5 (1/2),Peptamen 1.5 (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,61
+14222,225973,Meperidine (Demerol),Meperidine (Demerol),metavision,inputevents_mv,Medications,mg,Solution,,596
+14223,225974,Metoprolol,Metoprolol,metavision,inputevents_mv,Medications,mg,Solution,,31160
+14224,225975,Heparin Sodium (Prophylaxis),Heparin Sodium (Prophylaxis),metavision,inputevents_mv,Medications,dose,Solution,,77518
+15024,227689,Dilantin,Dilantin,metavision,inputevents_mv,Medications,mg,Solution,,5233
+15025,227690,Fosphenytoin,Fosphenytoin,metavision,inputevents_mv,Medications,mg,Solution,,1083
+15026,227691,Keflex,Keflex,metavision,inputevents_mv,Antibiotics,dose,Solution,,94
+15027,227692,Isuprel,Isuprel,metavision,inputevents_mv,Medications,mg,Solution,,81
+15028,227694,Omeprazole (Prilosec),Omeprazole (Prilosec),metavision,inputevents_mv,Medications,dose,Solution,,1383
+15029,227695,Fibersource HN (Full),Fibersource HN (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,9853
+15030,227696,Fibersource HN (3/4),Fibersource HN (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,96
+15032,227698,Fibersource HN (1/2),Fibersource HN (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,33
+15033,227699,Fibersource HN (1/4),Fibersource HN (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,56
+14239,225991,Resource Fruit Beverage,Resource Fruit Beverage,metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,2
+14240,225993,Optisource,Optisource,metavision,inputevents_mv,Nutrition - Supplements,ounces,Solution,,1
+14241,225994,Mighty Shake (Vanilla/Strawberry),Mighty Shake (Vanilla/Strawberry),metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,4
+14242,225995,Mighty Shake (Chocolate),Mighty Shake (Chocolate),metavision,inputevents_mv,Nutrition - Supplements,mL,Solution,,5
+15069,227973,NovaSource Renal (1/2),NovaSource Renal (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,186
+15070,227974,NovaSource Renal (3/4),NovaSource Renal (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,93
+15071,227975,NovaSource Renal (Full),NovaSource Renal (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,7626
+15072,227976,Boost Glucose Control (1/4),Boost Glucose Control (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1
+15073,227977,Boost Glucose Control (1/2),Boost Glucose Control (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,28
+15074,227978,Boost Glucose Control (3/4),Boost Glucose Control (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,19
+15075,227979,Boost Glucose Control (Full),Boost Glucose Control (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,5669
+14332,226044,Replete (1/4),Replete (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,28
+14333,226045,Replete (2/3),Replete (2/3),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,58
+14334,226046,Replete (3/4),Replete (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,252
+14335,226047,Replete (1/2),Replete (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,214
+14336,226048,Replete with Fiber (1/4),Replete with Fiber (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,114
+14337,226049,Replete with Fiber (2/3),Replete with Fiber (2/3),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,43
+14338,226050,Replete with Fiber (3/4),Replete with Fiber (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,300
+14339,226051,Replete with Fiber (1/2),Replete with Fiber (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,337
+14342,226058,Vivonex (3/4),Vivonex (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,12
+14343,226059,Vivonex (1/2),Vivonex (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,42
+14352,226089,Piggyback,Piggyback,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,35567
+14355,225917,TPN without Lipids,TPN without Lipids,metavision,inputevents_mv,Nutrition - Parenteral,mL,Solution,,3843
+14358,225920,Peripheral Parenteral Nutrition,Peripheral Parenteral Nutrition,metavision,inputevents_mv,Nutrition - Parenteral,mL,Solution,,349
+14365,225928,Impact with Fiber (Full),Impact with Fiber (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,1059
+14366,225929,ProBalance (Full),ProBalance (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,726
+14367,225930,Peptamen 1.5 (Full),Peptamen 1.5 (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,3491
+14368,225931,Nutren 2.0 (Full),Nutren 2.0 (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,7049
+14369,225934,Vivonex (Full),Vivonex (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,2082
+14370,225935,Replete (Full),Replete (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,4811
+14371,225936,Replete with Fiber (Full),Replete with Fiber (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,31309
+14372,225937,Ensure (Full),Ensure (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,481
+14373,225941,D5 1/4NS,D5 1/4NS,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,541
+14374,225942,Fentanyl (Concentrate),Fentanyl (Concentrate),metavision,inputevents_mv,Medications,mg,Solution,,45866
+14375,225943,Solution,Solution,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,246312
+14376,225944,Sterile Water,Sterile Water,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,37553
+14377,225945,Lidocaine,Lidocaine,metavision,inputevents_mv,Medications,mg,Solution,,512
+14378,225947,Dextrose PN,Dextrose PN,metavision,inputevents_mv,Nutrition - Parenteral,grams,Solution,,2289
+14379,225948,Amino Acids,Amino Acids,metavision,inputevents_mv,Nutrition - Parenteral,grams,Solution,,2618
+15324,228131,Isosource 1.5 (1/2),Isosource 1.5 (1/2),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,106
+15325,228132,Isosource 1.5 (1/4),Isosource 1.5 (1/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,13
+15326,228133,Isosource 1.5 (2/3),Isosource 1.5 (2/3),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,2
+15327,228134,Isosource 1.5 (3/4),Isosource 1.5 (3/4),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,30
+15328,228135,Isosource 1.5 (Full),Isosource 1.5 (Full),metavision,inputevents_mv,Nutrition - Enteral,mL,Solution,,6581
+15331,228140,Dextrose 20%,Dextrose 20%,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,82
+15332,228141,Dextrose 30%,Dextrose 30%,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,4
+15333,228142,Dextrose 40%,Dextrose 40%,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,52
+12860,220862,Albumin 25%,Albumin 25%,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,9851
+12862,220864,Albumin 5%,Albumin 5%,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,7466
+12865,220949,Dextrose 5%,Dextrose 5%,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,406345
+12866,220950,Dextrose 10%,Dextrose 10%,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,1576
+13748,225147,Argatroban,Argatroban,metavision,inputevents_mv,Medications,mg,Solution,,1065
+13749,225148,Bivalirudin (Angiomax),Bivalirudin (Angiomax),metavision,inputevents_mv,Medications,mg,Solution,,205
+13750,225150,Dexmedetomidine (Precedex),Dexmedetomidine (Precedex),metavision,inputevents_mv,Medications,mcg,Solution,,15303
+13751,225151,Eptifibatide (Integrilin),Eptifibatide (Integrilin),metavision,inputevents_mv,Medications,mg,Solution,,1264
+13752,225152,Heparin Sodium,Heparin Sodium,metavision,inputevents_mv,Medications,units,Solution,,32468
+13753,225153,Labetalol,Labetalol,metavision,inputevents_mv,Medications,mg,Solution,,9206
+13754,225154,Morphine Sulfate,Morphine Sulfate,metavision,inputevents_mv,Medications,mg,Solution,,41064
+13755,225155,Octreotide,Octreotide,metavision,inputevents_mv,Medications,mg,Solution,,2929
+13756,225156,Pentobarbital,Pentobarbital,metavision,inputevents_mv,Medications,mg,Solution,,455
+13757,225157,Tirofiban (Aggrastat),Tirofiban (Aggrastat),metavision,inputevents_mv,Medications,mg,Solution,,11
+13758,225158,NaCl 0.9%,NaCl 0.9%,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,527855
+13759,225159,NaCl 0.45%,NaCl 0.45%,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,8106
+13760,225161,NaCl 3% (Hypertonic Saline),NaCl 3% (Hypertonic Saline),metavision,inputevents_mv,Fluids/Intake,mL,Solution,,1681
+14447,226361,Pre-Admission Intake,Pre-Admission Intake,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,6786
+14449,226363,Cath Lab Intake,Cath Lab Intake,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,1003
+14450,226364,OR Crystalloid Intake,OR Crystalloid Intake,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,7052
+14451,226365,OR Colloid Intake,OR Colloid Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,1002
+14452,226367,OR FFP Intake,OR FFP Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,998
+14453,226368,OR Packed RBC Intake,OR Packed RBC Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,2002
+14454,226369,OR Platelet Intake,OR Platelet Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,781
+14455,226370,OR Autologous Blood Intake,OR Autologous Blood Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,82
+14456,226371,OR Cryoprecipitate Intake,OR Cryoprecipitate Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,196
+14457,226372,OR Cell Saver Intake,OR Cell Saver Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,1895
+14458,226375,PACU Crystalloid Intake,PACU Crystalloid Intake,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,441
+14459,226376,PACU Colloid Intake,PACU Colloid Intake,metavision,inputevents_mv,Blood Products/Colloids,mL,Solution,,74
+14460,226377,PACU PO Intake,PACU PO Intake,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,16
+14471,226452,PO Intake,PO Intake,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,135438
+14472,226453,GT Flush,GT Flush,metavision,inputevents_mv,Fluids/Intake,mL,Solution,,63417
